@@ -15,7 +15,7 @@ A 3D wireframe parkour game for the TI-84 Plus CE graphing calculator.
 ### Installation
 1. Download the recent version of the CEPARKO Zip folder in [releases]
 2. Connect your calculator and open **TI Connect™ CE**.
-3. Drag and drop the file into the calculator's memory or archive.
+3. Drag and drop the .8xp file into the calculator's memory or archive.
 4. On your calculator, press [PRGM], select the game, and press [ENTER] to start jumping!
 
 Troubleshooting:
